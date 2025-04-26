@@ -1,5 +1,5 @@
-# Ex14 Heap Tree
-## DATE:
+# Ex3(d) Heap Tree
+## DATE:17/3/25
 ## AIM:
 To write a C function to delete an element in a Heap Tree.
 
